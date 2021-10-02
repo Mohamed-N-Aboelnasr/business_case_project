@@ -1,7 +1,7 @@
 Business_case_project
 ==============================
 
-end-to-end data science project for educational purposes
+End-to-end data science project for educational purposes
 
 Project Organization
 ------------
